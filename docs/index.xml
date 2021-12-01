@@ -1,20 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>My New Hugo Site</title>
-    <link>http://sjtutiansen.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 30 Nov 2021 15:42:27 +0800</lastBuildDate><atom:link href="http://sjtutiansen.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://sjtutiansen.github.io/posts/my-first-post/</link>
-      <pubDate>Tue, 30 Nov 2021 15:42:27 +0800</pubDate>
-      
-      <guid>http://sjtutiansen.github.io/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>LoveLiLi</title>
+        <link>http://sjtutiansen.github.io/</link>
+        <description>关于 LoveIt 主题</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+            <atom:link href="http://sjtutiansen.github.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
 </rss>
