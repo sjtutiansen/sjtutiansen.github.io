@@ -3,7 +3,15 @@
         <title>LoveLiLi</title>
         <link>http://sjtutiansen.github.io/</link>
         <description>关于 LoveIt 主题</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>sjtutiansen@outlook.com (sjtutiansen)</managingEditor>
+            <webMaster>sjtutiansen@outlook.com (sjtutiansen)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
             <atom:link href="http://sjtutiansen.github.io/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title></title>
+    <link>http://sjtutiansen.github.io/first/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>http://sjtutiansen.github.io/first/</guid>
+    <description><![CDATA[title: &ldquo;栗栗的美照&rdquo; date: 2021-12-04T21:28:13+08:00 draft: false 栗栗的第六天 栗栗1栗栗1 " 栗栗1 栗栗2栗栗2 " 栗栗2 栗栗3栗栗3 " 栗栗3 栗栗4栗栗4 " 栗栗4]]></description>
+</item></channel>
 </rss>
