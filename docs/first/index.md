@@ -1,34 +1,58 @@
-# 栗栗的美照
+# 栗子宝宝的第六天
 
 
-# 栗栗的第六天
 
-![栗栗1](./lili_photo/lili1.jpg "栗栗1")
+## 一步一个脚印
+![栗栗](./lili_photo/lili9.jpg)
 
-![栗栗2](./lili_photo/lili2.jpg "栗栗2")
+## 三字经：爱妈妈，爱爸爸
+![栗栗](./lili_photo/lili2.jpg)
 
-![栗栗3](./lili_photo/lili3.jpg "栗栗3")
+![栗栗](./lili_photo/lili3.jpg)
 
-![栗栗4](./lili_photo/lili4.jpg "栗栗4")
+## 怎么还不发工资？
+![栗栗](./lili_photo/lili4.jpg)
 
-![栗栗5](./lili_photo/lili5.jpg "栗栗5")
+## 思考栗生
+![栗栗](./lili_photo/lili5.jpg)
 
-![栗栗6](./lili_photo/lili6.jpg "栗栗6")
+![栗栗](./lili_photo/lili6.jpg)
 
-![栗栗7](./lili_photo/lili7.jpg "栗栗7")
+## 世界和平
+![栗栗](./lili_photo/lili7.jpg)
 
-![栗栗8](./lili_photo/lili8.jpg "栗栗8")
+## 我太难了
+![栗栗](./lili_photo/lili8.jpg)
 
-![栗栗9](./lili_photo/lili9.jpg "栗栗9")
+## 困
+![栗栗](./lili_photo/lili10.jpg)
 
-![栗栗10](./lili_photo/lili10.jpg "栗栗10")
+## 嘿嘿
+![栗栗](./lili_photo/lili11.jpg)
 
-![栗栗11](./lili_photo/lili11.jpg "栗栗11")
+## 小样
+![栗栗](./lili_photo/lili12.jpg)
 
-![栗栗12](./lili_photo/lili12.jpg "栗栗12")
+## 掐指一算
+![栗栗](./lili_photo/lili13.jpg)
 
-![栗栗13](./lili_photo/lili13.jpg "栗栗13")
+![栗栗](./lili_photo/lili14.jpg)
 
-![栗栗14](./lili_photo/lili14.jpg "栗栗14")
+![栗栗](./lili_photo/lili15.jpg)
 
-![栗栗15](./lili_photo/lili15.jpg "栗栗15")
+![栗栗](./lili_photo/lili16.jpg)
+
+## 你说的都对
+![栗栗](./lili_photo/lili17.jpg)
+
+![栗栗](./lili_photo/lili18.jpg)
+
+![栗栗](./lili_photo/lili19.jpg)
+
+![栗栗](./lili_photo/lili20.jpg)
+
+![栗栗](./lili_photo/lili21.jpg)
+
+![栗栗](./lili_photo/lili22.jpg)
+
+![栗栗](./lili_photo/lili23.jpg)
